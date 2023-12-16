@@ -10,12 +10,17 @@ The dashboard should focus on key areas such as
 * Key customers
 * Shipping cost
 # Data Source
-The data was obtained from Maven Analytics website. 
+The data was obtained from the Maven Analytics website. 
 # Data preparation/cleaning
+* 
+* 
+
 
 
 # Visualization
 The visualization was done using Power Bi
+<img width="684" alt="image" src="https://github.com/Imoniyi/NorthWind-Traders/assets/151396523/0ee3d9d0-57ba-4867-a7b5-1e0956f32ba6">
+
 # Findings
 * Between the years 2013-2015, a total revenue of $1.27milllion was made. The Northwind traders had 77 products and 830 orders were made within that year. $64,9400 was spent on shipping their products and they had a total of 91 customers from 21 different countries.
 * Revenue trended down, resulting in a 34.20% decrease between July 2013 and May 2015.
