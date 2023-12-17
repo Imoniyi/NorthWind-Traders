@@ -30,7 +30,7 @@ The visualization was done using Power Bi
 <img width="684" alt="image" src="https://github.com/Imoniyi/NorthWind-Traders/assets/151396523/0ee3d9d0-57ba-4867-a7b5-1e0956f32ba6">
 
 # Findings
-* Between the years 2013-2015, a total revenue of £1.27milllion was made. The Northwind traders had 77 products and 830 orders were made within that year. A sum of £64,9400 was spent on shipping of the from 2013-2015 products. Northwind Traders had a total of 91 customers from 21 different countries in those years.
+* Between the years 2013-2015, a total revenue of £1.27milllion was made. The Northwind traders had 77 products and 830 orders were made within that year. A sum of £64,9400    was spent on shipping of the products from 2013-2015. Northwind Traders had a total of 91 customers from 21 different countries in those years.
 * The highest revenue was made in the month of April 2015. The lowest revenue was   made in the month of May 2015. 
 * ﻿﻿At £110,277.305, QUICK(customer) had the highest Revenue and was 120.64% higher than HUNGO, which had the lowest Revenue at £49,979.905.
 * Beverages accounted for 21.16% of Revenue which makes it the category that generates the most Revenue followed by 
